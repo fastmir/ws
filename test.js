@@ -1,0 +1,1 @@
+console.log("current time is", new date());
